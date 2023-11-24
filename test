@@ -1,0 +1,3 @@
+git config -- global user.name = "Hoàng Đức"
+git commit -m "duc"
+git status
